@@ -6,10 +6,10 @@ const SearchResults = () => {
   const dummyResults = [
     {
       id: 1,
-      title: "Google Insight is out now",
+      title: "What is AI?",
       url: "https://www.google.ca",
       comments:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+        "AI, or Artificial Intelligence, refers to the simulation of human intelligence in machines, enabling them to perform tasks that typically require human intelligence, such as learning, problem-solving, and decision-making",
       img: "https://picsum.photos/id/123/200/300",
     },
     {

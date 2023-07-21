@@ -49,7 +49,7 @@ export default function AIWidget() {
         id="ai-widget"
         ref={aiWidgetRef}
       >
-        <div className="aiwidget__tooltip">We leverage AI to improve Search with better rankings, featured snippets, and personalized results. AI enhances natural language understanding, provides autocomplete suggestions, and enables image and voice search. Our goal is to make information more accessible and relevant for all users.</div>
+        <div className="aiwidget__tooltip">We leverage AI to improve Search with better rankings, featured snippets, and personalized results. AI enhances natural language understanding, provides autocomplete suggestions, and enables image and voice search. Our goal is to make information more accessible and relevant for all users. </div>
 
         <button className="aiwidget__button--mobile" onClick={handleOpenModal}>
           AI

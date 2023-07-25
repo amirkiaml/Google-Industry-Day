@@ -3,6 +3,8 @@
 ## Introduction
 Welcome to our team's GitHub repository for the Google Industry Day one-day hackathon hosted by BrainStation, on July 20, 2023. We are a diverse team of data scientists, UI/UX designers, and web developers, united by our passion for innovation and our commitment to deliver a compelling digital solution to a real-world business problem. Our team's name is *The Extremers*!
 
+![Screenshot](Image.png)
+
 ## Our team comprises:
 
 - [Moises Vera - Data Scientist](https://www.linkedin.com/in/moisessosav/)

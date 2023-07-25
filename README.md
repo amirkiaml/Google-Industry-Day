@@ -14,6 +14,7 @@ Welcome to our team's GitHub repository for the Google Industry Day one-day hack
 - **Product Manager:** Laura Merino
 
 ## Our Story
+
 [Find the presentation on the Industry Day here:](https://drive.google.com/file/d/1J_B4bPAX5q5aJRyy-x3jE4rNmaKtGhje/view?usp=sharing)
 
 I'm excited to share our team's approach to educating users about AI-powered Google products while

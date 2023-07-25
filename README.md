@@ -38,7 +38,7 @@ experience.
 
 As a result, we are thrilled to introduce "Insights," a powerful widget integrated into the Google
 platform. "Insights" provides users with a unique glimpse behind the curtain, offering clear explanations
-on how AI enhances their experience, utilizes their data, and delivers the results they receive. With
+of how AI enhances their experience, utilizes their data, and delivers the results they receive. With
 "Insights," we aim to foster transparency and empower users to confidently embrace AI-related
 features.
 
@@ -53,17 +53,18 @@ their comfort level. A passive hover-over feature will show basic information on
 to enhance its products. Alternatively, click-based interaction will activate a more dynamic chatbot,
 capable of providing comprehensive explanations.
 
+![Screenshot](ChatWithInsights.png)
+
 With "Insights" actively generating user data, we can collect valuable engagement metrics on the AIpowered tools. By analyzing these metrics using statistical methods (such as ANOVA and A|B testing), we aim to gauge the extent of users' interactions with the AI-powered tools. As we strongly believe that
-user engagement directly correlates with trust, this analysis will offer valuable information into the level
-of trust users have in our AI products.
+user engagement directly correlates with trust, this analysis will offer valuable information on the level of trust users have in our AI products.
 
 By understanding this relationship, we can make actionable changes to the way users see, experience, and interact with Google products and AI technologies.
 
 ## Data Scientists
-As data scientists, our team strives to harness the full potential of data, unearthing valuable insights that drive informed decision-making. Moises Vera, Annie Yan, and Amir Kiani employ their unique skills to analyze, interpret, and manipulate data in innovative ways. With a focus on advanced statistical techniques and cutting-edge machine learning algorithms, we are determined to deliver an exceptional digital solution that empowers Google with actionable intelligence. Our passion for exploring data intricacies and commitment to excellence ensure that our contributions are at the forefront of data-driven innovation.
+As data scientists, our team strives to harness the full potential of data, unearthing valuable insights that drive informed decision-making. Moises Vera, Annie Yan, and Amir Kiani employ their unique skills to analyze, interpret, and manipulate data in innovative ways. With a focus on advanced statistical techniques and cutting-edge machine learning algorithms, we are determined to deliver an exceptional digital solution that empowers Google with actionable intelligence. Our passion for exploring data intricacies and commitment to excellence ensures that our contributions are at the forefront of data-driven innovation.
 
 ## UI/UX
-Our gifted UX designer, Amy Chen, leads the charge in creating seamless and intuitive user interfacing experiences. Grounded in a deep understanding of user behavior, Amy's creativity shines through in crafting a captivating and functional user interface. Through meticulous research and user testing, our team ensures that Google's digital solution provides a delightful and engaging user experience.
+Our gifted UX designer, Amy Chen, leads the charge in creating seamless and intuitive user-interfacing experiences. Grounded in a deep understanding of user behavior, Amy's creativity shines through in crafting a captivating and functional user interface. Through meticulous research and user testing, our team ensures that Google's digital solution provides a delightful and engaging user experience.
 
 
 ## Software Engineers

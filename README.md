@@ -13,7 +13,10 @@ Welcome to our team's GitHub repository for the Google Industry Day one-day hack
 - [Chelsea Quindipan - Software Engineer](https://www.linkedin.com/in/chelsea-quindipan/)
 - **Product Manager:** Laura Merino
 
-I'm excited to share our team's approach in educating users about AI-powered Google products while
+## Our Story
+[Find the presentation on the Industry Day here:](https://drive.google.com/file/d/1J_B4bPAX5q5aJRyy-x3jE4rNmaKtGhje/view?usp=sharing)
+
+I'm excited to share our team's approach to educating users about AI-powered Google products while
 ensuring user trust and avoiding misunderstandings. Through numerous conversations and discussions,
 we arrived at a fundamental idea: "Trust is how predictable, inclusive, and safe we feel towards
 something." For instance, just like we trust a lifelong friend to follow through on a favor, communicate
@@ -26,7 +29,7 @@ the lack of transparency, concerns about privacy invasion, and the difficulty in
 for evaluating AI algorithm results in products. Addressing these concerns is pivotal in building trust and
 confidence in AI technologies.
 
-On a high level, we wish to foster better understanding of AI through the presentation of educational
+On a high level, we wish to foster a better understanding of AI through the presentation of educational
 insights that will empower users with the knowledge of how AI has been integrated into their day-to-day
 experience.
 
